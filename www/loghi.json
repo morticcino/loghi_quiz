@@ -1,0 +1,2250 @@
+[
+  {
+    "1": 2,
+    "Squadra": "Anderlecht",
+    "Immagine": "Anderlecht.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 3,
+    "Squadra": "Brugge",
+    "Immagine": "Brugge.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 4,
+    "Squadra": "Charleroi",
+    "Immagine": "Charleroi.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 5,
+    "Squadra": "Genk",
+    "Immagine": "Genk.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 6,
+    "Squadra": "Gent",
+    "Immagine": "Gent.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 7,
+    "Squadra": "Heverlee_Leuven",
+    "Immagine": "Heverlee_Leuven.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 8,
+    "Squadra": "Kortrijk",
+    "Immagine": "Kortrijk.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 9,
+    "Squadra": "Mechelen",
+    "Immagine": "Mechelen.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 10,
+    "Squadra": "Mouscron_Peruwelz",
+    "Immagine": "Mouscron_Peruwelz.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 11,
+    "Squadra": "Oostende",
+    "Immagine": "Oostende.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 12,
+    "Squadra": "Standard_Liege",
+    "Immagine": "Standard_Liege.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 13,
+    "Squadra": "Truiden",
+    "Immagine": "Truiden.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 14,
+    "Squadra": "Waasland_Beveren",
+    "Immagine": "Waasland_Beveren.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 15,
+    "Squadra": "Westerlo",
+    "Immagine": "Westerlo.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 16,
+    "Squadra": "Zulte-Waregem",
+    "Immagine": "Zulte-Waregem.png",
+    "Nazione": "Belgio",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 17,
+    "Squadra": "Sloboda_Tuzla",
+    "Immagine": "Sloboda_Tuzla.png",
+    "Nazione": "Bosnia",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 18,
+    "Squadra": "Siroki_Brijeg",
+    "Immagine": "Siroki_Brijeg.png",
+    "Nazione": "Bosnia",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 19,
+    "Squadra": "Angers",
+    "Immagine": "Angers.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 20,
+    "Squadra": "Bastia",
+    "Immagine": "Bastia.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 21,
+    "Squadra": "Caen",
+    "Immagine": "Caen.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 22,
+    "Squadra": "En_Avant_de_Guingamp",
+    "Immagine": "En_Avant_de_Guingamp.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 23,
+    "Squadra": "Estac_Troyes",
+    "Immagine": "Estac_Troyes.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 24,
+    "Squadra": "Gaz�lec_Ajaccio",
+    "Immagine": "Gaz�lec_Ajaccio.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 25,
+    "Squadra": "Girondins-Bordeaux",
+    "Immagine": "Girondins-Bordeaux.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 26,
+    "Squadra": "Lille",
+    "Immagine": "Lille.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 27,
+    "Squadra": "Lorient",
+    "Immagine": "Lorient.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 28,
+    "Squadra": "Monaco",
+    "Immagine": "Monaco.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 29,
+    "Squadra": "Montpellier",
+    "Immagine": "Montpellier.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 30,
+    "Squadra": "Nantes",
+    "Immagine": "Nantes.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 31,
+    "Squadra": "Nizza",
+    "Immagine": "Nizza.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 32,
+    "Squadra": "Olympique_Lyonnais",
+    "Immagine": "Olympique_Lyonnais.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 33,
+    "Squadra": "Olympique_Marseille",
+    "Immagine": "Olympique_Marseille.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 34,
+    "Squadra": "Paris_Saint-Germain",
+    "Immagine": "Paris_Saint-Germain.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 35,
+    "Squadra": "Reims",
+    "Immagine": "Reims.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 36,
+    "Squadra": "Rennais",
+    "Immagine": "Rennais.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 37,
+    "Squadra": "Saint_Etienne",
+    "Immagine": "Saint_Etienne.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 38,
+    "Squadra": "Tolosa",
+    "Immagine": "Tolosa.png",
+    "Nazione": "Francia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 39,
+    "Squadra": "Ajaccio",
+    "Immagine": "Ajaccio.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 40,
+    "Squadra": "Auxerre",
+    "Immagine": "Auxerre.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 41,
+    "Squadra": "Bourg-P�ronnas",
+    "Immagine": "Bourg-P�ronnas.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 42,
+    "Squadra": "Brestois",
+    "Immagine": "Brestois.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 43,
+    "Squadra": "Chamois Niortais",
+    "Immagine": "Chamois Niortais.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 44,
+    "Squadra": "Clermont",
+    "Immagine": "Clermont.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 45,
+    "Squadra": "Creteil",
+    "Immagine": "Creteil.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 46,
+    "Squadra": "Dijon",
+    "Immagine": "Dijon.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 47,
+    "Squadra": "Evian",
+    "Immagine": "Evian.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 48,
+    "Squadra": "Lavallois_Mayenne",
+    "Immagine": "Lavallois_Mayenne.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 49,
+    "Squadra": "Le_Havre",
+    "Immagine": "Le_Havre.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 50,
+    "Squadra": "Metz",
+    "Immagine": "Metz.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 51,
+    "Squadra": "Nancy_Lorraine",
+    "Immagine": "Nancy_Lorraine.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 52,
+    "Squadra": "N�mes",
+    "Immagine": "N�mes.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 53,
+    "Squadra": "Paris FC",
+    "Immagine": "Paris FC.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 54,
+    "Squadra": "RC-Lens",
+    "Immagine": "RC-Lens.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 55,
+    "Squadra": "RedStar",
+    "Immagine": "RedStar.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 56,
+    "Squadra": "Sochaux",
+    "Immagine": "Sochaux.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 57,
+    "Squadra": "Tours",
+    "Immagine": "Tours.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 58,
+    "Squadra": "Valenciennes",
+    "Immagine": "Valenciennes.png",
+    "Nazione": "Francia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 59,
+    "Squadra": "Augsburg",
+    "Immagine": "Augsburg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 60,
+    "Squadra": "Bayern_M�nchen",
+    "Immagine": "Bayern_M�nchen.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 61,
+    "Squadra": "Bayer_Leverkusen",
+    "Immagine": "Bayer_Leverkusen.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 62,
+    "Squadra": "Borussia_Dortmund",
+    "Immagine": "Borussia_Dortmund.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 63,
+    "Squadra": "Borussia_M�nchengladbach",
+    "Immagine": "Borussia_M�nchengladbach.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 64,
+    "Squadra": "Darmstadt",
+    "Immagine": "Darmstadt.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 65,
+    "Squadra": "Eintracht_Frankfurt",
+    "Immagine": "Eintracht_Frankfurt.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 66,
+    "Squadra": "Hamburger",
+    "Immagine": "Hamburger.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 67,
+    "Squadra": "Hannover_96",
+    "Immagine": "Hannover_96.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 68,
+    "Squadra": "Herta_Berlin",
+    "Immagine": "Herta_Berlin.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 69,
+    "Squadra": "Hoffenheim",
+    "Immagine": "Hoffenheim.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 70,
+    "Squadra": "Ingolstadt_04",
+    "Immagine": "Ingolstadt_04.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 71,
+    "Squadra": "Koln",
+    "Immagine": "Koln.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 72,
+    "Squadra": "Mainz",
+    "Immagine": "Mainz.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 73,
+    "Squadra": "Schalke_04",
+    "Immagine": "Schalke_04.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 74,
+    "Squadra": "Stuttgart",
+    "Immagine": "Stuttgart.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 75,
+    "Squadra": "Werder_Bremen",
+    "Immagine": "Werder_Bremen.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 76,
+    "Squadra": "Wolfsburg",
+    "Immagine": "Wolfsburg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 77,
+    "Squadra": "Arminia_Bielefeld",
+    "Immagine": "Arminia_Bielefeld.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 78,
+    "Squadra": "Bochum",
+    "Immagine": "Bochum.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 79,
+    "Squadra": "Duisburg",
+    "Immagine": "Duisburg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 80,
+    "Squadra": "Eintracht_Braunschweig",
+    "Immagine": "Eintracht_Braunschweig.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 81,
+    "Squadra": "Fortuna_Dusseldorf",
+    "Immagine": "Fortuna_Dusseldorf.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 82,
+    "Squadra": "Frankfurt",
+    "Immagine": "Frankfurt.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 83,
+    "Squadra": "Freiburg",
+    "Immagine": "Freiburg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 84,
+    "Squadra": "Greuther",
+    "Immagine": "Greuther.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 85,
+    "Squadra": "Heidenheim_1846.svg",
+    "Immagine": "Heidenheim_1846.svg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 86,
+    "Squadra": "Kaiserslautern.svg",
+    "Immagine": "Kaiserslautern.svg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 87,
+    "Squadra": "Karlsruher",
+    "Immagine": "Karlsruher.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 88,
+    "Squadra": "Leipzig",
+    "Immagine": "Leipzig.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 89,
+    "Squadra": "M�nchen_1860.svg",
+    "Immagine": "M�nchen_1860.svg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 90,
+    "Squadra": "N�rnberg.svg",
+    "Immagine": "N�rnberg.svg.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 91,
+    "Squadra": "Paderborn07",
+    "Immagine": "Paderborn07.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 92,
+    "Squadra": "Sandhausen",
+    "Immagine": "Sandhausen.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 93,
+    "Squadra": "St_Pauli",
+    "Immagine": "St_Pauli.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 94,
+    "Squadra": "Union_Berlin",
+    "Immagine": "Union_Berlin.png",
+    "Nazione": "Germania",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 95,
+    "Squadra": "Notts_County",
+    "Immagine": "Notts_County.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Altre",
+    "Difficolta": 3
+  },
+  {
+    "1": 96,
+    "Squadra": "Stoke_City",
+    "Immagine": "Stoke_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Altre",
+    "Difficolta": 1
+  },
+  {
+    "1": 97,
+    "Squadra": "Arsenal",
+    "Immagine": "Arsenal.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 98,
+    "Squadra": "Aston_Villa",
+    "Immagine": "Aston_Villa.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 99,
+    "Squadra": "Bournemouth",
+    "Immagine": "Bournemouth.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 100,
+    "Squadra": "Chelsea",
+    "Immagine": "Chelsea.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 101,
+    "Squadra": "Crystal_Palace",
+    "Immagine": "Crystal_Palace.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 102,
+    "Squadra": "Everton",
+    "Immagine": "Everton.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 103,
+    "Squadra": "Leicester_City",
+    "Immagine": "Leicester_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 104,
+    "Squadra": "Liverpool",
+    "Immagine": "Liverpool.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 105,
+    "Squadra": "Manchester_City",
+    "Immagine": "Manchester_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 106,
+    "Squadra": "Manchester_United",
+    "Immagine": "Manchester_United.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 107,
+    "Squadra": "Newcastle_United",
+    "Immagine": "Newcastle_United.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 108,
+    "Squadra": "Norwich_City",
+    "Immagine": "Norwich_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 109,
+    "Squadra": "Sunderland",
+    "Immagine": "Sunderland.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 110,
+    "Squadra": "Swansea",
+    "Immagine": "Swansea.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 111,
+    "Squadra": "Tottenham_Hotspur",
+    "Immagine": "Tottenham_Hotspur.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 112,
+    "Squadra": "Watford",
+    "Immagine": "Watford.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 113,
+    "Squadra": "West_Bromwich_Albion",
+    "Immagine": "West_Bromwich_Albion.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 114,
+    "Squadra": "West_Ham",
+    "Immagine": "West_Ham.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 115,
+    "Squadra": "Wigan_Athletic",
+    "Immagine": "Wigan_Athletic.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 116,
+    "Squadra": "Wolverhampton",
+    "Immagine": "Wolverhampton.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 117,
+    "Squadra": "Birmingham_City",
+    "Immagine": "Birmingham_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 118,
+    "Squadra": "Blackburn_Rovers",
+    "Immagine": "Blackburn_Rovers.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 119,
+    "Squadra": "Bolton",
+    "Immagine": "Bolton.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 120,
+    "Squadra": "Brentford",
+    "Immagine": "Brentford.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 121,
+    "Squadra": "Brighton_&_Hove_Albion",
+    "Immagine": "Brighton_&_Hove_Albion.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 122,
+    "Squadra": "Bristol_City",
+    "Immagine": "Bristol_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 123,
+    "Squadra": "Burnley",
+    "Immagine": "Burnley.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 124,
+    "Squadra": "Cardiff_City_",
+    "Immagine": "Cardiff_City_.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 125,
+    "Squadra": "Charlton_Athletic",
+    "Immagine": "Charlton_Athletic.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 126,
+    "Squadra": "Derby_County",
+    "Immagine": "Derby_County.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 127,
+    "Squadra": "Fulham",
+    "Immagine": "Fulham.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 128,
+    "Squadra": "Huddersfield_Town",
+    "Immagine": "Huddersfield_Town.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 129,
+    "Squadra": "Hull_City",
+    "Immagine": "Hull_City.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 130,
+    "Squadra": "Ipswich_Town",
+    "Immagine": "Ipswich_Town.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 131,
+    "Squadra": "Leeds_United",
+    "Immagine": "Leeds_United.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 132,
+    "Squadra": "Middlesbrough",
+    "Immagine": "Middlesbrough.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 133,
+    "Squadra": "MK_Dons",
+    "Immagine": "MK_Dons.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 134,
+    "Squadra": "Nottingham_Forest",
+    "Immagine": "Nottingham_Forest.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 135,
+    "Squadra": "Preston",
+    "Immagine": "Preston.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 136,
+    "Squadra": "Queens_Park_Rangers",
+    "Immagine": "Queens_Park_Rangers.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 137,
+    "Squadra": "Reading",
+    "Immagine": "Reading.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 138,
+    "Squadra": "Rotherham_United",
+    "Immagine": "Rotherham_United.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 139,
+    "Squadra": "Sheffield_United",
+    "Immagine": "Sheffield_United.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 140,
+    "Squadra": "Sheffield_Wednesday",
+    "Immagine": "Sheffield_Wednesday.png",
+    "Nazione": "Inghilterra",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 141,
+    "Squadra": "Breidablik",
+    "Immagine": "Breidablik.png",
+    "Nazione": "Islanda",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 142,
+    "Squadra": "Fjolnir Reykjavik",
+    "Immagine": "Fjolnir Reykjavik.png",
+    "Nazione": "Islanda",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 143,
+    "Squadra": "Fylkir Reykjavik",
+    "Immagine": "Fylkir Reykjavik.png",
+    "Nazione": "Islanda",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 144,
+    "Squadra": "Hafnarfjordur",
+    "Immagine": "Hafnarfjordur.png",
+    "Nazione": "Islanda",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 145,
+    "Squadra": "Catania",
+    "Immagine": "Catania.png",
+    "Nazione": "Italia",
+    "Serie": "Altre",
+    "Difficolta": 2
+  },
+  {
+    "1": 146,
+    "Squadra": "Spal",
+    "Immagine": "Spal.png",
+    "Nazione": "Italia",
+    "Serie": "Altre",
+    "Difficolta": 3
+  },
+  {
+    "1": 147,
+    "Squadra": "Empoli",
+    "Immagine": "Empoli.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 148,
+    "Squadra": "Fiorentina",
+    "Immagine": "Fiorentina.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 149,
+    "Squadra": "Frosinone",
+    "Immagine": "Frosinone.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 150,
+    "Squadra": "Inter",
+    "Immagine": "Inter.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 151,
+    "Squadra": "Juventus",
+    "Immagine": "Juventus.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 152,
+    "Squadra": "Milan",
+    "Immagine": "Milan.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 153,
+    "Squadra": "Sampdoria",
+    "Immagine": "Sampdoria.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 154,
+    "Squadra": "Sassuolo",
+    "Immagine": "Sassuolo.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 155,
+    "Squadra": "Udinese",
+    "Immagine": "Udinese.png",
+    "Nazione": "Italia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 156,
+    "Squadra": "Cesena",
+    "Immagine": "Cesena.png",
+    "Nazione": "Italia",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 157,
+    "Squadra": "Ajax_Amsterdam",
+    "Immagine": "Ajax_Amsterdam.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 158,
+    "Squadra": "AZ_Alkmaar.svg",
+    "Immagine": "AZ_Alkmaar.svg.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 159,
+    "Squadra": "Cambuur",
+    "Immagine": "Cambuur.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 160,
+    "Squadra": "Den_Haag",
+    "Immagine": "Den_Haag.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 161,
+    "Squadra": "De_Graafschap",
+    "Immagine": "De_Graafschap.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 162,
+    "Squadra": "Feyenoord",
+    "Immagine": "Feyenoord.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 163,
+    "Squadra": "Groningen",
+    "Immagine": "Groningen.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 164,
+    "Squadra": "Heerenveen",
+    "Immagine": "Heerenveen.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 165,
+    "Squadra": "Heracles",
+    "Immagine": "Heracles.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 166,
+    "Squadra": "NEC_Nijmegen",
+    "Immagine": "NEC_Nijmegen.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 167,
+    "Squadra": "Pec_Zwolle",
+    "Immagine": "Pec_Zwolle.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 168,
+    "Squadra": "PSV_Eindhoven",
+    "Immagine": "PSV_Eindhoven.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 169,
+    "Squadra": "Roda",
+    "Immagine": "Roda.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 170,
+    "Squadra": "SBV_Excelsior",
+    "Immagine": "SBV_Excelsior.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 171,
+    "Squadra": "Sparta_Rotterdam",
+    "Immagine": "Sparta_Rotterdam.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 172,
+    "Squadra": "Twente",
+    "Immagine": "Twente.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 173,
+    "Squadra": "Utrecht",
+    "Immagine": "Utrecht.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 174,
+    "Squadra": "Vitesse",
+    "Immagine": "Vitesse.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 175,
+    "Squadra": "Willem-II",
+    "Immagine": "Willem-II.png",
+    "Nazione": "Olanda",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 176,
+    "Squadra": "Cracovia_Krakau",
+    "Immagine": "Cracovia_Krakau.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 177,
+    "Squadra": "Gornik_Leczna",
+    "Immagine": "Gornik_Leczna.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 178,
+    "Squadra": "Gornik_Zabrze",
+    "Immagine": "Gornik_Zabrze.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 179,
+    "Squadra": "Jagiellonia_Bialystok",
+    "Immagine": "Jagiellonia_Bialystok.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 180,
+    "Squadra": "Korona_Kielce",
+    "Immagine": "Korona_Kielce.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 181,
+    "Squadra": "Lechia_Gdansk",
+    "Immagine": "Lechia_Gdansk.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 182,
+    "Squadra": "Lech_Poznan",
+    "Immagine": "Lech_Poznan.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 183,
+    "Squadra": "Legia_Warszawa",
+    "Immagine": "Legia_Warszawa.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 184,
+    "Squadra": "Piast_Gliwice",
+    "Immagine": "Piast_Gliwice.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 185,
+    "Squadra": "Pogon",
+    "Immagine": "Pogon.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 186,
+    "Squadra": "Ruch_Chorz�w",
+    "Immagine": "Ruch_Chorz�w.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 187,
+    "Squadra": "Slask_Wroclaw",
+    "Immagine": "Slask_Wroclaw.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 188,
+    "Squadra": "Wisla_Krakow",
+    "Immagine": "Wisla_Krakow.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 189,
+    "Squadra": "Zaglebie_Lubin",
+    "Immagine": "Zaglebie_Lubin.png",
+    "Nazione": "Polonia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 190,
+    "Squadra": "Acad�mica",
+    "Immagine": "Acad�mica.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 191,
+    "Squadra": "Belenenses",
+    "Immagine": "Belenenses.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 192,
+    "Squadra": "Benfica",
+    "Immagine": "Benfica.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 193,
+    "Squadra": "Boavista",
+    "Immagine": "Boavista.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 194,
+    "Squadra": "Club_Sport_Mar�timo",
+    "Immagine": "Club_Sport_Mar�timo.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 195,
+    "Squadra": "Estoril_Praia",
+    "Immagine": "Estoril_Praia.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 196,
+    "Squadra": "Futebol Clube de Arouca",
+    "Immagine": "Futebol Clube de Arouca.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 197,
+    "Squadra": "Moreirense",
+    "Immagine": "Moreirense.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 198,
+    "Squadra": "Nacional_Madeira",
+    "Immagine": "Nacional_Madeira.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 199,
+    "Squadra": "Pa�os_De_Ferreira",
+    "Immagine": "Pa�os_De_Ferreira.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 200,
+    "Squadra": "Porto",
+    "Immagine": "Porto.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 201,
+    "Squadra": "Rio_Ave",
+    "Immagine": "Rio_Ave.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 202,
+    "Squadra": "Sporting",
+    "Immagine": "Sporting.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 203,
+    "Squadra": "Sporting_Clube_Braga",
+    "Immagine": "Sporting_Clube_Braga.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 204,
+    "Squadra": "Tondela",
+    "Immagine": "Tondela.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 205,
+    "Squadra": "Uni�o_Madeira",
+    "Immagine": "Uni�o_Madeira.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 206,
+    "Squadra": "Vit�ria_Guimar�es",
+    "Immagine": "Vit�ria_Guimar�es.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 207,
+    "Squadra": "Vit�ria_Setubal",
+    "Immagine": "Vit�ria_Setubal.png",
+    "Nazione": "Portogallo",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 208,
+    "Squadra": "Astra_Giurgiu",
+    "Immagine": "Astra_Giurgiu.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 209,
+    "Squadra": "Botosani",
+    "Immagine": "Botosani.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 210,
+    "Squadra": "Cluj",
+    "Immagine": "Cluj.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 211,
+    "Squadra": "Concordia_Chiajna",
+    "Immagine": "Concordia_Chiajna.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 212,
+    "Squadra": "Dinamo_Bucaresti",
+    "Immagine": "Dinamo_Bucaresti.PNG",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 213,
+    "Squadra": "Pandurii",
+    "Immagine": "Pandurii.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 214,
+    "Squadra": "Petrolul",
+    "Immagine": "Petrolul.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 215,
+    "Squadra": "Steaua_Bucaresti",
+    "Immagine": "Steaua_Bucaresti.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 216,
+    "Squadra": "Studentesc_Iasi",
+    "Immagine": "Studentesc_Iasi.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 217,
+    "Squadra": "Targu-Mure",
+    "Immagine": "Targu-Mure.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 218,
+    "Squadra": "Timisoara",
+    "Immagine": "Timisoara.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 219,
+    "Squadra": "Universitatea Craiova",
+    "Immagine": "Universitatea Craiova.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 220,
+    "Squadra": "Viitorul_Constanta",
+    "Immagine": "Viitorul_Constanta.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 221,
+    "Squadra": "Voluntari",
+    "Immagine": "Voluntari.png",
+    "Nazione": "Romania",
+    "Serie": "Serie A",
+    "Difficolta": 3
+  },
+  {
+    "1": 222,
+    "Squadra": "Celtic",
+    "Immagine": "Celtic.png",
+    "Nazione": "Scozia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 223,
+    "Squadra": "Dundee_United",
+    "Immagine": "Dundee_United.png",
+    "Nazione": "Scozia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 224,
+    "Squadra": "Athletic_Bilbao",
+    "Immagine": "Athletic_Bilbao.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 225,
+    "Squadra": "Atletico_Madrid",
+    "Immagine": "Atletico_Madrid.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 226,
+    "Squadra": "Barcelona",
+    "Immagine": "Barcelona.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 227,
+    "Squadra": "Betis",
+    "Immagine": "Betis.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 228,
+    "Squadra": "Celta_Vigo",
+    "Immagine": "Celta_Vigo.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 229,
+    "Squadra": "Deportivo_La_Coruna",
+    "Immagine": "Deportivo_La_Coruna.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 230,
+    "Squadra": "Eibar",
+    "Immagine": "Eibar.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 231,
+    "Squadra": "Espanyol_De_Barcelona",
+    "Immagine": "Espanyol_De_Barcelona.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 232,
+    "Squadra": "Getafe",
+    "Immagine": "Getafe.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 233,
+    "Squadra": "Granada",
+    "Immagine": "Granada.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 234,
+    "Squadra": "Las_Palmas",
+    "Immagine": "Las_Palmas.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 235,
+    "Squadra": "Levante",
+    "Immagine": "Levante.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 236,
+    "Squadra": "Malaga",
+    "Immagine": "Malaga.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 237,
+    "Squadra": "Rayo_Vallecano",
+    "Immagine": "Rayo_Vallecano.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 238,
+    "Squadra": "Real_Madrid",
+    "Immagine": "Real_Madrid.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 239,
+    "Squadra": "Real_Sociedad",
+    "Immagine": "Real_Sociedad.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 240,
+    "Squadra": "Sevilla",
+    "Immagine": "Sevilla.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 241,
+    "Squadra": "Sporting_Gijon",
+    "Immagine": "Sporting_Gijon.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 242,
+    "Squadra": "Valencia",
+    "Immagine": "Valencia.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 243,
+    "Squadra": "Villarreal",
+    "Immagine": "Villarreal.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 244,
+    "Squadra": "Albacete",
+    "Immagine": "Albacete.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 245,
+    "Squadra": "Alcorc�n",
+    "Immagine": "Alcorc�n.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 246,
+    "Squadra": "Almer�a",
+    "Immagine": "Almer�a.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 247,
+    "Squadra": "Cordoba",
+    "Immagine": "Cordoba.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 248,
+    "Squadra": "Deportivo_Alaves",
+    "Immagine": "Deportivo_Alaves.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 249,
+    "Squadra": "Deportivo_Tenerife",
+    "Immagine": "Deportivo_Tenerife.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 250,
+    "Squadra": "Elche",
+    "Immagine": "Elche.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 251,
+    "Squadra": "Gimn�stic_de_Tarragona",
+    "Immagine": "Gimn�stic_de_Tarragona.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 252,
+    "Squadra": "Girona",
+    "Immagine": "Girona.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 253,
+    "Squadra": "Huesca",
+    "Immagine": "Huesca.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 254,
+    "Squadra": "Legan�s",
+    "Immagine": "Legan�s.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 255,
+    "Squadra": "Llagostera",
+    "Immagine": "Llagostera.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 256,
+    "Squadra": "Lugo",
+    "Immagine": "Lugo.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 257,
+    "Squadra": "Mallorca",
+    "Immagine": "Mallorca.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 258,
+    "Squadra": "Mirand�s",
+    "Immagine": "Mirand�s.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 259,
+    "Squadra": "Numancia",
+    "Immagine": "Numancia.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 260,
+    "Squadra": "Osasuna",
+    "Immagine": "Osasuna.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 261,
+    "Squadra": "Oviedo",
+    "Immagine": "Oviedo.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 262,
+    "Squadra": "Ponferradina",
+    "Immagine": "Ponferradina.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 263,
+    "Squadra": "Valladolid",
+    "Immagine": "Valladolid.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 264,
+    "Squadra": "Zaragoza",
+    "Immagine": "Zaragoza.png",
+    "Nazione": "Spagna",
+    "Serie": "Serie B",
+    "Difficolta": 2
+  },
+  {
+    "1": 265,
+    "Squadra": "Akhisar_Belediye",
+    "Immagine": "Akhisar_Belediye.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 266,
+    "Squadra": "Antalyaspor",
+    "Immagine": "Antalyaspor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 267,
+    "Squadra": "Besiktas",
+    "Immagine": "Besiktas.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 268,
+    "Squadra": "Bursaspor",
+    "Immagine": "Bursaspor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 269,
+    "Squadra": "Caykur_Rize",
+    "Immagine": "Caykur_Rize.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 270,
+    "Squadra": "Eskisehirspors",
+    "Immagine": "Eskisehirspors.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 271,
+    "Squadra": "Fenerbahce",
+    "Immagine": "Fenerbahce.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 272,
+    "Squadra": "Galatasaray",
+    "Immagine": "Galatasaray.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  },
+  {
+    "1": 273,
+    "Squadra": "Gaziantepspor",
+    "Immagine": "Gaziantepspor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 274,
+    "Squadra": "Genclerbirligi",
+    "Immagine": "Genclerbirligi.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 275,
+    "Squadra": "Istanbul_Basaksehir",
+    "Immagine": "Istanbul_Basaksehir.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 276,
+    "Squadra": "Kasimpasa",
+    "Immagine": "Kasimpasa.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 277,
+    "Squadra": "Kayserispor",
+    "Immagine": "Kayserispor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 278,
+    "Squadra": "Konyaspor",
+    "Immagine": "Konyaspor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 279,
+    "Squadra": "Mersin_Idman_Yurdu",
+    "Immagine": "Mersin_Idman_Yurdu.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 280,
+    "Squadra": "Osmanl�spor",
+    "Immagine": "Osmanl�spor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 281,
+    "Squadra": "Sivasspor",
+    "Immagine": "Sivasspor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 2
+  },
+  {
+    "1": 282,
+    "Squadra": "Trabzonspor",
+    "Immagine": "Trabzonspor.png",
+    "Nazione": "Turchia",
+    "Serie": "Serie A",
+    "Difficolta": 1
+  }
+]

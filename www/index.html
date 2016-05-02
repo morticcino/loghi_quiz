@@ -1,0 +1,74 @@
+<html>
+<head>
+</head>
+<body>
+<button onclick="start_quiz()">
+  Start quiz
+  <style>
+	#img{
+		height:100px;
+		width:auto;
+	}
+  </style>
+</button>
+<img id="img">
+<div id="risposte">risposte</div>
+<script>
+var loghi = '';
+var index = [];
+var difficolta = 1;
+
+
+
+function preprocess(difficolta){
+	var xmlhttp = new XMLHttpRequest();
+	var url = "loghi.json";
+
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			loghi = JSON.parse(xmlhttp.responseText);
+			myFunction(loghi);
+			
+		}
+	};
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+
+	function myFunction(arr) {
+		for(var i = 0; i<loghi.length; i++){
+			if(loghi[i].Difficolta === difficolta){
+				index.push(i);
+			}
+		}
+		//alert(index);
+		start_quiz();
+	}
+}
+
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+function start_quiz() {
+  function domande_sbagliate() {
+    var domanda = getRandomInt(1, index.length - 1);
+    document.getElementById('risposte').innerHTML += ',' + loghi[index[domanda]].Squadra;
+    //index.splice(domanda, 1);
+  }
+  var domanda = getRandomInt(0, index.length - 1);
+  document.getElementById('img').src = 'LoghiFiniti/'+loghi[index[domanda]].Nazione+'/'+loghi[index[domanda]].Serie+'/'+loghi[index[domanda]].Immagine;
+  document.getElementById('risposte').innerHTML = loghi[index[domanda]].Squadra;
+  index.splice(domanda, 1);
+  domande_sbagliate();
+  domande_sbagliate();
+  domande_sbagliate();
+
+}
+
+preprocess(difficolta);
+
+
+
+</script>
+</body>
+</html>

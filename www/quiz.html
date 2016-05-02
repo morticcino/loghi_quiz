@@ -1,0 +1,41 @@
+<html>
+<head>
+</head>
+<body>
+<button onclick="start_quiz(squadre, maglie, index)">
+  Start quiz
+</button>
+<div id="img">maglia</div>
+<div id="risposte">risposte</div>
+<script>
+var squadre = ['Juventus', 'Roma', 'Barcellona', 'Inter', 'Wolfsburg', 'Notts Country', 'Boca Juniors', 'Everton', 'Liverpool', 'Flamengo', 'Arsenal'];
+
+var maglie = ['01.jpg', '02.jpg', '03.jpg', '05.jpg', '06.jpg', '07.jpg', '08.jpg', '09.jpg', '10.jpg', '11.jpg', '12.jpg'];
+
+var index = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+function start_quiz(s, m, i) {
+  function domande_sbagliate() {
+    var domanda = getRandomInt(1, index.length - 1);
+    document.getElementById('risposte').innerHTML += ',' + squadre[index[domanda]];
+    index.splice(domanda, 1);
+  }
+  var domanda = getRandomInt(0, index.length - 1);
+  document.getElementById('img').innerHTML = maglie[index[domanda]];
+  document.getElementById('risposte').innerHTML = squadre[index[domanda]];
+  index.splice(domanda, 1);
+  domande_sbagliate();
+  domande_sbagliate();
+  domande_sbagliate();
+
+}
+
+start_quiz(squadre, maglie, index);
+
+</script>
+</body>
+</html>
